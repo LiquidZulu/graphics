@@ -1,0 +1,68 @@
+#+title: Flow
+
+* notes
+** anti-tabula rasa
++ Claim: not everybody is capable of being a libertarian, because political beliefs are downstream of heritable personality traits
+  + Lets say there are certain heritible traits that makes one more intelligent and more likely to adopt a peaceful, radical ideology like libertarianism. That does not imply that it is impossible for other people to become libertarians, only that they are unlikely to be among the first libertarians
+** immigration restrictions
+#+begin_quote
+Want to see a magic trick? I can turn any open borders libertarian into a closed borders one.
+
+Watch.
+
+I consider it an act of aggression to invite immigrants into my nation who threaten or degrade my values.
+
+I will vote this way (if we're in a democracy). I will vote this way on any jury. If we're in ancapistan, I will pay my defense provider to expel incompatible immigrants.
+
+If you want your definition of aggression to hold in any area, you have no choice but to exclude or subjugate people who hold my definition.
+
+At which point you've become me.
+#+end_quote
++ So the claim is:
+  1. I consider it to be aggression to invite immigrants into my nation who would degrade my values
+  2. whenever I am given the chance to (juries, purchasing rights enforcement) I will vote to keep these people out
+  3. If you want your definition of aggression (where 2 is aggression) to apply to my area, you will have no choice but to exclude or subjugate people who hold my definition
+     + Exclude from where? Subjugate how?
+  4. At that point, you have become me
+     + Have I become an immigration restrictionist? My claim would merely be that a property owner would have the right to exclude your agents from /their property/
+* flow
++ disagreement: how do we get these outcomes
+  + wrong way of looking at law is: "how do I obtain this outcome," it is simply a set of facts about the proper way of resolving disputes
++ say we roughly agree on the NAP, seems clear that other people can have vastly different interpretations of what is aggression (socialist says it is aggression to not give money to the poor)
+  + there is an objective truth of the matter here, that many people are wrong about
+    + mission of free staters is to attempt to achieve our ideology to the maximum possible degree, if that requires compromising then we'll compromise.
+      + How do you produce a society that produces legal outcomes, justice systems, that share your definitions
+        + Isaiah's Job---all of that bureaucracy is downstream of winning on the philosophy. You can
+          + Heart of the disagreement --- accept there must be some proportion of people in the polity who share your interpretation of words, what is the heart of the disagreement
+            + I suspect the heart of the disagreement would be over what you are allowed to do to achieve this, may you commit aggression to bring about a world without aggression
+              +
++ follow the NAP and lose
+  + What is it to lose? If you are advocating not to follow the NAP, how can you sway the philosophy of the day? To lose is to not have the philosophy of the day include libertarianism
+    + Immigration, at least in sufficient quantities, is aggression --- continuum problem, how many photons constitute aggression
+      + for a continuum, there must be a principled difference at either end of the continuum. Where is that principled difference from many immigrants and few immigrants
+        + immigration happening in such a way that will destroy the legal systems that are NAP-compliant
+          + What specific actions destroy that legal system? /Those/ actions are illicit
+            +
++ factory owner bringing in 500 third worlders---it spills over
+  + If it is a private property society, then the other people can exclude them without getting some sort of payment or insurance agreement or whatever
+  + "they commit more crime, more litter, etc"
+    + well, that is all crime
+      + there is still the externality, because it will increase the costs of producing justice
+        + On the market this cost could easily be placed upon the factory owner, if he wants those people to be able to go into the private town
++ rejects that government property is unowned
+  + who owns it?
+    + joint-stock corporation
+      + group property? Or individual owners? Has to be individual owners
+        + look at the founding of various municipalities, some roughly close to valid contract law---100 citizens came together and agreed to a contract for these are the joint rules governing our property
+          + I don't think that is a valid contract, needs to be done with title-transfer
+            +
++ A totally private immigration system isn't on the table
+  + It will never be on the table unless we are radicals
++ prosperity attracts people, some of those people won't share your values
+  + You can keep them out without abandoning those values yourself
++ distinction between judges and jurists
+  + it's an engineering problem to get the people to adjuticate in the correct way
+    +
++ different definitions in science; different definitions of cells, of viruses, of atoms, etc
+  +
++

@@ -1,0 +1,9 @@
+#+title: Flow
+
++ argument:
+  1. agents act using imperfect revisable beliefs
+  2. actions occur under real constraints and have irreversible effects
+  3. a reason that fails when error is acknowledged cannot function as a reliable guide to action
+  4. agents can only act meaningfully, or can only meaningfully endorse actions guided by reasons they can rely on
+  c. an action is ethically permissible for an actor/agent only if its guiding reasons remain usable under fallibility and reasonable disagreement
++
